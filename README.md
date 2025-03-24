@@ -1,16 +1,16 @@
-#My Portfolio
+# My Portfolio
 
 Welcome to my portfolio repository! This repository showcases my projects, skills, and achievements.  
 
-##🚀 Objective
+## 🚀 Objective
 The objective of this portfolio is to demonstrate my technical skills and present my completed projects in an organized way.  
 
-##📝 Features
+## 📝 Features
 - Interactive and responsive design
 - Showcases multiple projects with detailed descriptions
 - Contact information for professional networking
 
-##📂 Folder Structure
+## 📂 Folder Structure
 portfolio/ ├── index.html ├── assets/ │ ├── css/ │ └── images/ └── README.md
 
 ## 💻 How to Run
